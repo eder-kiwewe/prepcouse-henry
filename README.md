@@ -1,2 +1,1 @@
-# prepcouse-henry
-repositorio mundo del prepcouse de henry 
+es una prueba de como crear un repositorio de gothub a mi computadora.
